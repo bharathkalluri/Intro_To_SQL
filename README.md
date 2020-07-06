@@ -1,2 +1,2 @@
-# TestGit
-this is for testing git
+# Intro to SQL
+Repository for Intro to SQL coursework
